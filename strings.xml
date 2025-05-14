@@ -25,7 +25,7 @@
     <string name="module_failed_to_enable">Không thể kích hoạt module: %s</string>
     <string name="module_failed_to_disable">Không thể vô hiệu hoá module: %s</string>
     <string name="module_empty">Chưa cài module nào</string>
-    <string name="module">Module</string>
+    <string name="module">Modules</string>
     <string name="module_sort_action_first">Sắp xếp (theo hành động)</string>
     <string name="module_sort_enabled_first">Sắp xếp (theo trạng thái)</string>
     <string name="uninstall">Gỡ cài đặt</string>
