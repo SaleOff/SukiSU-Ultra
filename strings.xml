@@ -26,8 +26,8 @@
     <string name="module_failed_to_disable">Không thể vô hiệu hoá module: %s</string>
     <string name="module_empty">Chưa cài module nào</string>
     <string name="module">Modules</string>
-    <string name="module_sort_action_first">Sắp xếp (theo hành động)</string>
-    <string name="module_sort_enabled_first">Sắp xếp (theo trạng thái)</string>
+    <string name="module_sort_action_first">Sắp xếp (Theo hành động)</string>
+    <string name="module_sort_enabled_first">Sắp xếp (Theo trạng thái)</string>
     <string name="uninstall">Gỡ cài đặt</string>
     <string name="restore">Khôi phục</string>
     <string name="module_install">Cài đặt</string>
@@ -54,7 +54,7 @@
     <string name="module_magisk_conflict">Các module không khả dụng do xung đột với Magisk!</string>
     <string name="home_learn_kernelsu">Tìm hiểu về KernelSU</string>
     <string name="home_learn_kernelsu_url">https://kernelsu.org/guide/what-is-kernelsu.html</string>
-    <string name="home_click_to_learn_kernelsu">Tìm hiểu cách cài đặt KernelSU và sử dụng các Module</string>
+    <string name="home_click_to_learn_kernelsu">Tìm hiểu cách cài đặt KernelSU và sử dụng các Module.</string>
     <string name="home_support_title">Hỗ trợ chúng tôi</string>
     <string name="home_support_content">KernelSU sẽ luôn là miễn phí và mã nguồn mở. Tuy nhiên, bạn có thể cho chúng tôi thấy rằng bạn quan tâm bằng cách quyên góp.</string>
     <string name="about_source_code"><![CDATA[Xem mã nguồn tại %1$s<br/>Tham gia kênh %2$s của chúng tôi]]></string>
@@ -74,7 +74,7 @@
     <string name="failed_to_update_app_profile">Cập nhật hồ sơ ứng dụng thất bại cho %s</string>
     <string name="require_kernel_version" formatted="false">Phiên bản SukiSU Ultra hiện tại %d quá thấp để trình quản lý hoạt động bình thường. Vui lòng cập nhật lên phiên bản %d hoặc cao hơn!</string>
     <string name="settings_umount_modules_default">Bỏ gắn kết các Module cho toàn hệ thống</string>
-    <string name="settings_umount_modules_default_summary">Giá trị mặc định chung cho \"Bỏ gắn kết các Module\" trong Hồ sơ ứng dụng. Nếu được bật, mọi thay đổi hệ thống do các Module gây ra sẽ bị gỡ bỏ khỏi hệ thống và các ứng dụng chưa thiết lập hồ sơ.</string>
+    <string name="settings_umount_modules_default_summary">Giá trị mặc định chung cho \"Bỏ gắn kết các Module\" trong Hồ sơ ứng dụng. Nếu được bật, mọi thay đổi hệ thống do các Module gây ra sẽ bị gỡ bỏ khỏi hệ thống và các ứng dụng chưa thiết lập hồ sơ</string>
     <string name="settings_susfs_toggle">Ẩn hooks kprobe</string>
     <string name="profile_umount_modules_summary">Bật tùy chọn này sẽ cho phép SukiSU Ultra khôi phục mọi tệp đã được các Module sửa đổi cho ứng dụng này.</string>
     <string name="profile_selinux_domain">Tên miền</string>
@@ -116,7 +116,7 @@
     <string name="action">Khởi chạy</string>
     <string name="open">Mở</string>
     <string name="enable_web_debugging">Bật gỡ lỗi WebView</string>
-    <string name="enable_web_debugging_summary">Có thể sử dụng để gỡ lỗi WebUI. Vui lòng chỉ bật khi cần thiết.</string>
+    <string name="enable_web_debugging_summary">Có thể sử dụng để gỡ lỗi WebUI. Vui lòng chỉ bật khi cần thiết</string>
     <string name="direct_install">Cài đặt trực tiếp (Khuyến nghị)</string>
     <string name="select_file">Chọn tệp .img cần vá</string>
     <string name="install_inactive_slot">Cài đặt vào phân vùng chưa được sử dụng (Sau OTA)</string>
@@ -130,7 +130,7 @@
     <string name="settings_restore_stock_image">Khôi phục phân vùng khởi động về mặc định</string>
     <string name="settings_uninstall_temporary_message">Gỡ cài đặt tạm thời SukiSU Ultra, khôi phục lại trạng thái ban đầu sau lần khởi động lại tiếp theo.</string>
     <string name="settings_uninstall_permanent_message">Gỡ cài đặt SukiSU Ultra (Root và tất cả các module) sạch hoàn toàn, trả về trạng thái ban đầu.</string>
-    <string name="settings_restore_stock_image_message">Khôi phục lại boot lúc đầu (nếu có bản sao lưu), thường được sử dụng trước OTA; nếu bạn cần gỡ hẳn SukiSU Ultra, sử dụng\"Gỡ cài đặt sạch\".</string>
+    <string name="settings_restore_stock_image_message">Khôi phục lại boot lúc đầu (Nếu có bản sao lưu), thường được sử dụng trước OTA; nếu bạn cần gỡ hẳn SukiSU Ultra, sử dụng\"Gỡ cài đặt sạch\".</string>
     <string name="flashing">Đang flash...</string>
     <string name="flash_success">Flash thành công</string>
     <string name="flash_failed">Flash thất bại</string>
@@ -178,7 +178,7 @@
     <string name="home_device_model">Model thiết bị</string>
     <string name="su_not_allowed">Cấp quyền SU không được phép cho: %s</string>
     <string name="settings_disable_su">Vô hiệu hoá khả năng của lệnh SU</string>
-    <string name="settings_disable_su_summary">Vô hiệu hoá khả năng thực thi lệnh SU để lấy quyền root (những app đã cấp trước đó không bị ảnh hưởng).</string>
+    <string name="settings_disable_su_summary">Vô hiệu hoá khả năng thực thi lệnh SU để lấy quyền root (Những app đã cấp trước đó không bị ảnh hưởng)</string>
     <string name="using_mksu_manager">Bạn đang sử dụng trình quản lý SukiSU Beta</string>
     <string name="module_install_multiple_confirm">Bạn có chắc muốn cài đặt các Module %d đã chọn không?</string>
     <string name="module_install_multiple_confirm_with_names">Bạn có chắc muốn cài đặt các module %1$d sau không? \n\n%2$s</string>
@@ -326,7 +326,7 @@
     <string name="root_require_for_install">Yêu cầu quyền root</string>
     <!-- KPM display settings -->
     <string name="show_kpm_info">Hiển thị chức năng KPM</string>
-    <string name="show_kpm_info_summary">Hiển thị thông tin KPM và Chức năng ở trang chủ và thanh dưới cùng (Cần khởi động lại ứng dụng)</string>
+    <string name="show_kpm_info_summary">Hiển thị thông tin KPM, chức năng ở trang chủ và thanh dưới cùng (Cần khởi động lại ứng dụng)</string>
     <!-- Webui X settings -->
     <string name="use_webuix">Sử dụng WebUI X</string>
     <string name="use_webuix_summary">Sử dụng WebUI X thay cho WebUI vì hỗ trợ nhiều API hơn</string>
