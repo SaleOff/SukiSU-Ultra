@@ -301,9 +301,9 @@
     <string name="GKI_install_methods">GKI/non-GKI installation</string>
     <string name="kernel_version_log">Kernel version：%1$s</string>
     <string name="tool_version_log">Using the patching tool：%1$s</string>
-    <string name="configuration">Configure</string>
-    <string name="app_settings">Application Settings</string>
-    <string name="tools">Tools</string>
+    <string name="configuration">Cấu hình</string>
+    <string name="app_settings">Cài đặt ứng dụng</string>
+    <string name="tools">Công cụ</string>
     <string name="currently_selected">Currently</string>
     <!--  String resources used in SuperUser -->
     <string name="clear">Loại bỏ</string>
