@@ -74,7 +74,7 @@
     <string name="failed_to_update_app_profile">Cập nhật hồ sơ ứng dụng thất bại cho %s</string>
     <string name="require_kernel_version" formatted="false">Phiên bản SukiSU Ultra hiện tại %d quá thấp để trình quản lý hoạt động bình thường. Vui lòng cập nhật lên phiên bản %d hoặc cao hơn!</string>
     <string name="settings_umount_modules_default">Bỏ gắn kết các Module cho toàn hệ thống</string>
-    <string name="settings_umount_modules_default_summary">Giá trị mặc định chung cho \"Bỏ gắn kết các Module\" trong Hồ sơ ứng dụng. Nếu bật, mọi thay đổi hệ thống do Module gây ra sẽ bị gỡ bỏ đối với hệ thống đối và các ứng dụng không có hồ sơ được đặt.</string>
+    <string name="settings_umount_modules_default_summary">Giá trị mặc định chung cho \"Bỏ gắn kết các Module\" trong Hồ sơ ứng dụng. Nếu được bật, mọi thay đổi hệ thống do các Module gây ra sẽ bị gỡ bỏ khỏi hệ thống và các ứng dụng chưa thiết lập hồ sơ.</string>
     <string name="settings_susfs_toggle">Ẩn hooks kprobe</string>
     <string name="profile_umount_modules_summary">Bật tùy chọn này sẽ cho phép SukiSU Ultra khôi phục mọi tệp đã được các Module sửa đổi cho ứng dụng này.</string>
     <string name="profile_selinux_domain">Tên miền</string>
@@ -329,7 +329,7 @@
     <string name="show_kpm_info_summary">Hiển thị thông tin KPM và Chức năng ở trang chủ và thanh dưới cùng (Cần khởi động lại ứng dụng)</string>
     <!-- Webui X settings -->
     <string name="use_webuix">Sử dụng WebUI X</string>
-    <string name="use_webuix_summary">Sử dụng WebUI X thay vì WebUI hỗ trợ nhiều API hơn</string>
+    <string name="use_webuix_summary">Sử dụng WebUI X thay cho WebUI vì hỗ trợ nhiều API hơn</string>
     <string name="use_webuix_eruda">Tiêm Eruda vào WebUI X</string>
     <string name="use_webuix_eruda_summary">Chèn bảng điều khiển gỡ lỗi vào WebUI X để gỡ lỗi dễ dàng hơn. Yêu cầu bật gỡ lỗi web.</string>
     <!-- DPI setting related strings -->
