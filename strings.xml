@@ -334,14 +334,14 @@
     <string name="use_webuix_eruda_summary">Chèn bảng điều khiển gỡ lỗi vào WebUI X để gỡ lỗi dễ dàng hơn. Yêu cầu bật gỡ lỗi web.</string>
     <!-- DPI setting related strings -->
     <string name="dpi_settings">Cài đặt DPI</string>
-    <string name="app_dpi_title">Áp dụng DPI</string>
+    <string name="app_dpi_title">Tuỳ chỉnh DPI</string>
     <string name="app_dpi_summary">Điều chỉnh DPI hiển thị cho ứng dụng</string>
     <string name="dpi_size_small">Nhỏ</string>
     <string name="dpi_size_medium">Vừa</string>
     <string name="dpi_size_large">Lớn</string>
     <string name="dpi_size_extra_large">Cực lớn</string>
     <string name="dpi_size_custom">Có thể tùy chỉnh</string>
-    <string name="dpi_apply_settings">Áp dụng cài đặt DPI</string>
+    <string name="dpi_apply_settings">Áp dụng</string>
     <string name="dpi_confirm_title">Xác nhận thay đổi DPI</string>
     <string name="dpi_confirm_message">Bạn có chắc chắn muốn thay đổi DPI của ứng dụng từ %1$d thành %2$d?</string>
     <string name="dpi_confirm_summary">Ứng dụng cần được khởi động lại để áp dụng cài đặt DPI mới, không ảnh hưởng đến thanh trạng thái hệ thống hoặc các ứng dụng khác</string>
