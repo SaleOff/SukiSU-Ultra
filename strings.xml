@@ -335,7 +335,7 @@
     <!-- DPI setting related strings -->
     <string name="dpi_settings">Cài đặt DPI</string>
     <string name="app_dpi_title">Áp dụng DPI</string>
-    <string name="app_dpi_summary">Chỉ điều chỉnh mật độ hiển thị màn hình cho ứng dụng hiện tại</string>
+    <string name="app_dpi_summary">Điều chỉnh DPI hiển thị cho ứng dụng</string>
     <string name="dpi_size_small">Nhỏ</string>
     <string name="dpi_size_medium">Vừa</string>
     <string name="dpi_size_large">Lớn</string>
