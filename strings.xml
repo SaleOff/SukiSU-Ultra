@@ -9,7 +9,7 @@
     <string name="home_superuser_count">Ứng dụng đã cấp SU: %d</string>
     <string name="home_module_count">Modules: %d</string>
     <string name="home_unsupported">Không được hỗ trợ</string>
-    <string name="home_unsupported_reason">Không phát hiện được trình điều khiển SukiSU Ultra trên Kernel của bạn, Kernel sai?.</string>
+    <string name="home_unsupported_reason">Không phát hiện được trình điều khiển SukiSU Ultra trên Kernel của bạn, Kernel sai?</string>
     <string name="home_kernel">Phiên bản Kernel</string>
     <string name="home_susfs">SuSFS: %s</string>
     <string name="home_susfs_version">Phiên bản SuSFS</string>
@@ -54,9 +54,9 @@
     <string name="module_magisk_conflict">Các module không khả dụng do xung đột với Magisk!</string>
     <string name="home_learn_kernelsu">Tìm hiểu về KernelSU</string>
     <string name="home_learn_kernelsu_url">https://kernelsu.org/guide/what-is-kernelsu.html</string>
-    <string name="home_click_to_learn_kernelsu">Tìm hiểu cách cài đặt KernelSU và sử dụng các Module.</string>
+    <string name="home_click_to_learn_kernelsu">Tìm hiểu cách cài đặt KernelSU và sử dụng các Module!</string>
     <string name="home_support_title">Hỗ trợ chúng tôi</string>
-    <string name="home_support_content">KernelSU sẽ luôn là miễn phí và mã nguồn mở. Tuy nhiên, bạn có thể cho chúng tôi thấy rằng bạn quan tâm bằng cách quyên góp.</string>
+    <string name="home_support_content">KernelSU sẽ luôn là miễn phí và mã nguồn mở. Tuy nhiên, bạn có thể cho chúng tôi thấy rằng bạn quan tâm bằng cách quyên góp!</string>
     <string name="about_source_code"><![CDATA[Xem mã nguồn tại %1$s<br/>Tham gia kênh %2$s của chúng tôi]]></string>
     <string name="profile" translatable="false">Hồ sơ ứng dụng</string>
     <string name="profile_default">Mặc định</string>
@@ -76,13 +76,13 @@
     <string name="settings_umount_modules_default">Bỏ gắn kết các Module cho toàn hệ thống</string>
     <string name="settings_umount_modules_default_summary">Giá trị mặc định chung cho \"Bỏ gắn kết các Module\" trong Hồ sơ ứng dụng. Nếu được bật, mọi thay đổi hệ thống do các Module gây ra sẽ bị gỡ bỏ khỏi hệ thống và các ứng dụng chưa thiết lập hồ sơ</string>
     <string name="settings_susfs_toggle">Ẩn hooks kprobe</string>
-    <string name="profile_umount_modules_summary">Bật tùy chọn này sẽ cho phép SukiSU Ultra khôi phục mọi tệp đã được các Module sửa đổi cho ứng dụng này.</string>
+    <string name="profile_umount_modules_summary">Bật tùy chọn này sẽ cho phép SukiSU Ultra khôi phục mọi tệp đã được các Module sửa đổi cho ứng dụng này</string>
     <string name="profile_selinux_domain">Tên miền</string>
     <string name="profile_selinux_rules">Quy tắc</string>
     <string name="module_update">Cập nhật</string>
     <string name="module_downloading">Tải xuống module: %s</string>
     <string name="module_start_downloading">Đang tải xuống module: %s</string>
-    <string name="new_version_available">Phiên bản mới %s đã có sẵn, hãy nhấp để cập nhật.</string>
+    <string name="new_version_available">Phiên bản mới %s đã có sẵn, hãy nhấp để cập nhật</string>
     <string name="launch_app">Mở</string>
     <string name="force_stop_app" formatted="false">Buộc dừng</string>
     <string name="restart_app">Khởi động lại</string>
@@ -128,9 +128,9 @@
     <string name="settings_uninstall_temporary">Gỡ cài đặt tạm thời</string>
     <string name="settings_uninstall_permanent">Gỡ cài đặt sạch</string>
     <string name="settings_restore_stock_image">Khôi phục phân vùng khởi động về mặc định</string>
-    <string name="settings_uninstall_temporary_message">Gỡ cài đặt tạm thời SukiSU Ultra, khôi phục lại trạng thái ban đầu sau lần khởi động lại tiếp theo.</string>
-    <string name="settings_uninstall_permanent_message">Gỡ cài đặt SukiSU Ultra (Root và tất cả các module) sạch hoàn toàn, trả về trạng thái ban đầu.</string>
-    <string name="settings_restore_stock_image_message">Khôi phục lại boot lúc đầu (Nếu có bản sao lưu), thường được sử dụng trước OTA; nếu bạn cần gỡ hẳn SukiSU Ultra, sử dụng\"Gỡ cài đặt sạch\".</string>
+    <string name="settings_uninstall_temporary_message">Gỡ cài đặt tạm thời SukiSU Ultra, khôi phục lại trạng thái ban đầu sau lần khởi động lại tiếp theo</string>
+    <string name="settings_uninstall_permanent_message">Gỡ cài đặt SukiSU Ultra (Root và tất cả các module) sạch hoàn toàn, trả về trạng thái ban đầu</string>
+    <string name="settings_restore_stock_image_message">Khôi phục lại boot lúc đầu (Nếu có bản sao lưu), thường được sử dụng trước OTA; nếu bạn cần gỡ hẳn SukiSU Ultra, sử dụng\"Gỡ cài đặt sạch\"</string>
     <string name="flashing">Đang flash...</string>
     <string name="flash_success">Flash thành công</string>
     <string name="flash_failed">Flash thất bại</string>
@@ -265,7 +265,7 @@
     <string name="invalid_file_type">Loại tệp không đúng! Vui lòng chọn tệp .kpm</string>
     <string name="confirm_uninstall_title_with_filename">Gỡ cài đặt</string>
     <string name="confirm_uninstall_content">KPM sau đây sẽ được gỡ cài đặt: %s</string>
-    <string name="settings_susfs_toggle_summary">Vô hiệu hóa các hook kprobe được tạo bởi SukiSU Ultra, thay vào đó sử dụng các hook nội tuyến, tương tự như phương pháp hook kernel không phải GKI.</string>
+    <string name="settings_susfs_toggle_summary">Vô hiệu hóa các hook kprobe được tạo bởi SukiSU Ultra, thay vào đó sử dụng các hook nội tuyến, tương tự như phương pháp hook kernel không phải GKI</string>
     <string name="image_editor_title">Điều chỉnh hình nền</string>
     <string name="image_editor_hint">Sử dụng hai ngón tay để phóng to hình ảnh và một ngón tay để kéo nó để điều chỉnh vị trí</string>
     <string name="background_image_error">Không thể tải hình ảnh</string>
@@ -331,7 +331,7 @@
     <string name="use_webuix">Sử dụng WebUI X</string>
     <string name="use_webuix_summary">Sử dụng WebUI X thay cho WebUI vì hỗ trợ nhiều API hơn</string>
     <string name="use_webuix_eruda">Tiêm Eruda vào WebUI X</string>
-    <string name="use_webuix_eruda_summary">Chèn bảng điều khiển gỡ lỗi vào WebUI X để gỡ lỗi dễ dàng hơn. Yêu cầu bật gỡ lỗi web.</string>
+    <string name="use_webuix_eruda_summary">Chèn bảng điều khiển gỡ lỗi vào WebUI X để gỡ lỗi dễ dàng hơn. Yêu cầu bật gỡ lỗi web</string>
     <!-- DPI setting related strings -->
     <string name="dpi_settings">Cài đặt DPI</string>
     <string name="app_dpi_title">Tuỳ chỉnh DPI</string>
