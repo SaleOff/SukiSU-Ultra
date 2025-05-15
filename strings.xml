@@ -340,7 +340,7 @@
     <string name="dpi_size_medium">Vừa</string>
     <string name="dpi_size_large">Lớn</string>
     <string name="dpi_size_extra_large">Cực lớn</string>
-    <string name="dpi_size_custom">Có thể tùy chỉnh</string>
+    <string name="dpi_size_custom">Đang hiển thị</string>
     <string name="dpi_apply_settings">Áp dụng</string>
     <string name="dpi_confirm_title">Xác nhận thay đổi DPI</string>
     <string name="dpi_confirm_message">Bạn có chắc chắn muốn thay đổi DPI của ứng dụng từ %1$d thành %2$d?</string>
