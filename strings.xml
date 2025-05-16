@@ -351,7 +351,7 @@
     <string name="language_follow_system">Theo dõi hệ thống</string>
     <string name="language_changed">Ngôn ngữ đã thay đổi, khởi động lại để áp dụng thay đổi</string>
     <string name="settings_card_dim">Điều chỉnh độ tối của thẻ</string>
-        <!-- Super User Related -->
+    <!-- Super User Related -->
     <string name="scroll_to_top">Lên trên</string>
     <string name="scroll_to_bottom">Xuống dưới</string>
     <string name="scroll_to_top_description">Cuộn lên đầu</string>
